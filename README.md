@@ -39,7 +39,7 @@ Built by **Astra**
 ### 🪟 On the Windows / IIS server (recommended)
 
 ```powershell
-git clone https://github.com/<your-org>/idunno-anticsrf-check.git
+git clone https://github.com/3tternp/idunno-anticsrf-check
 cd idunno-anticsrf-check
 powershell -ExecutionPolicy Bypass -File .\anticsrf_check_windows.ps1 -HuntLogs
 ```
