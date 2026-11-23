@@ -11,8 +11,7 @@
 ![mode](https://img.shields.io/badge/mode-read--only-blue)
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
-Built by **Vairav Technology Security Pvt. Ltd.** · CSOC · Advisory `VTS-SA-2026-1123-IDUNNO-ANTICSRF`
-
+Built by **Astra**
 </div>
 
 ---
