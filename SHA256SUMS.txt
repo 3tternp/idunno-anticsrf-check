@@ -1,0 +1,10 @@
+49735fac89e436a07a73d43006ad95f5ad81574721520f69b03d5f21e193db88  ./.gitignore
+f4e5d5ecdef3c9100a7a70e78b3995f775c80ed8e8d5edb7ac35d19365cca962  ./LICENSE
+f7d597bb55b1b0594af0971ab73a23a14a0d46aec683f501173a8d5f4d84ee87  ./README.md
+c3a0ee2d59bf58a9e30e6af0e65d12fc514375a6bec86cb521fde17c20b74643  ./anticsrf_check.py
+1dec5cdcf81799cb41672f824c81a78c0d42d46ecdf9efedb700830c83630928  ./anticsrf_check_windows.ps1
+d8164350f70894479630b47cbb696c7374609c30eba4e53d252d8c5654ce4a2e  ./tests/fixtures/logs/u_ex261120.log
+8f8f8884e59cd23346413ce9f3e5f80889a4764d66b88afff30139c9aac4ad68  ./tests/fixtures/siteA/bin/Idunno.AntiCsrf.dll
+00fdd07bfd31b424a078acac3bc971166753f2d278851543a74998565855ecfe  ./tests/fixtures/siteA/web.config
+ac5e3902a45b2009e3e4e7a8bd1d34a48a9913a01fde27fbd55e019fa5aec8eb  ./tests/fixtures/siteB/web.config
+cb1edb6e7c5404de38ae7275c3464e8ec92768dc44ccf9e37a52d4473ea5c6ed  ./tests/fixtures/siteC/web.config
